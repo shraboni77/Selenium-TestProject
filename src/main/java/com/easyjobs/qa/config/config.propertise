@@ -1,0 +1,7 @@
+url = https://app.easy.jobs/login
+username = shraboni@wpdeveloper.com
+password = 12345678
+browser = chrome
+loginPageTitle = easy.jobs | Login
+homePageTitle = easy.jobs | Dashboard
+jobpublishedPageTitle = easy.jobs | Published Jobs

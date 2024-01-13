@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-15T16:02:02 BDT" name="Default suite" finished-at="2023-12-15T16:02:18 BDT" duration-ms="15880">
+    <groups>
+    </groups>
+    <test started-at="2023-12-15T16:02:02 BDT" name="Default test" finished-at="2023-12-15T16:02:18 BDT" duration-ms="15880">
+      <class name="com.easyjobs.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.easyjobs.qa.testcases.LoginPageTest@d737b89]" started-at="2023-12-15T16:02:02 BDT" name="setUp" finished-at="2023-12-15T16:02:08 BDT" duration-ms="5918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginPageTitle()[pri:1, instance:com.easyjobs.qa.testcases.LoginPageTest@d737b89]" started-at="2023-12-15T16:02:08 BDT" name="validateLoginPageTitle" finished-at="2023-12-15T16:02:08 BDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitle -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.easyjobs.qa.testcases.LoginPageTest@d737b89]" started-at="2023-12-15T16:02:08 BDT" name="setUp" finished-at="2023-12-15T16:02:13 BDT" duration-ms="4938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageImageTest()[pri:2, instance:com.easyjobs.qa.testcases.LoginPageTest@d737b89]" started-at="2023-12-15T16:02:13 BDT" name="loginPageImageTest" finished-at="2023-12-15T16:02:13 BDT" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageImageTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.easyjobs.qa.testcases.LoginPageTest@d737b89]" started-at="2023-12-15T16:02:13 BDT" name="setUp" finished-at="2023-12-15T16:02:18 BDT" duration-ms="4742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.easyjobs.qa.testcases.LoginPageTest@d737b89]" started-at="2023-12-15T16:02:18 BDT" name="loginTest" finished-at="2023-12-15T16:02:18 BDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.easyjobs.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
